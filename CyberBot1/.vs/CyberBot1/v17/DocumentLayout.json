@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\projects\\CyberBot1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|c:\\projects\\cyberbot1\\cyberbot1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\task3_nlp\\menuresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\task3_nlp\\menuresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\startwindow\\introductionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\startwindow\\introductionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\task3_nlp\\cybertip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\task3_nlp\\cybertip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\task3_nlp\\nlpprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\task3_nlp\\nlpprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\chatbot\\cyberquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\chatbot\\cyberquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\logging\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\logging\\activitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\quiz\\quizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\quiz\\quizwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\quiz\\quizdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\quiz\\quizdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|C:\\projects\\CyberBot1\\cyberbot1\\quiz\\quizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C64D1914-5D31-4C78-84D9-553F9DE96D4B}|CyberBot1\\CyberBot1.csproj|solutionrelative:cyberbot1\\quiz\\quizwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberQuestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberTopicData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\SentimentAnalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\CyberReponses\\TypeWriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskManagerWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskManagerWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CyberBot1\\MainWindow.xaml",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\MainWindow.xaml",
+              "RelativeToolTip": "CyberBot1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T09:03:13.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CyberBot1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CyberBot1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACUAAADA//////8nwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T15:24:53.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuResponse.cs",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\Task3_NLP\\MenuResponse.cs",
+              "RelativeDocumentMoniker": "CyberBot1\\Task3_NLP\\MenuResponse.cs",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\Task3_NLP\\MenuResponse.cs",
+              "RelativeToolTip": "CyberBot1\\Task3_NLP\\MenuResponse.cs",
+              "ViewState": "AgIAAAAAAACQMjMzMzMbwAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:20:08.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\App.xaml",
+              "RelativeDocumentMoniker": "CyberBot1\\App.xaml",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\App.xaml",
+              "RelativeToolTip": "CyberBot1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-26T11:04:53.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntroductionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\startWindow\\IntroductionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CyberBot1\\startWindow\\IntroductionWindow.xaml.cs",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\startWindow\\IntroductionWindow.xaml.cs",
+              "RelativeToolTip": "CyberBot1\\startWindow\\IntroductionWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:31:12.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CyberQuestions.cs",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\ChatBot\\CyberQuestions.cs",
+              "RelativeDocumentMoniker": "CyberBot1\\ChatBot\\CyberQuestions.cs",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\ChatBot\\CyberQuestions.cs",
+              "RelativeToolTip": "CyberBot1\\ChatBot\\CyberQuestions.cs",
+              "ViewState": "AgIAACoAAACAzMzMzMwmwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:16:35.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuizData.cs",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\Quiz\\QuizData.cs",
+              "RelativeDocumentMoniker": "CyberBot1\\Quiz\\QuizData.cs",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\Quiz\\QuizData.cs",
+              "RelativeToolTip": "CyberBot1\\Quiz\\QuizData.cs",
+              "ViewState": "AgIAAFoAAAAAlpmZmZkpwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:09:21.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CyberTip.cs",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberTip.cs",
+              "RelativeDocumentMoniker": "CyberBot1\\Task3_NLP\\CyberTip.cs",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberTip.cs",
+              "RelativeToolTip": "CyberBot1\\Task3_NLP\\CyberTip.cs",
+              "ViewState": "AgIAAAQAAADAmZmZmRkmwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:27:21.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NLpProcessor.cs",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\Task3_NLP\\NLpProcessor.cs",
+              "RelativeDocumentMoniker": "CyberBot1\\Task3_NLP\\NLpProcessor.cs",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\Task3_NLP\\NLpProcessor.cs",
+              "RelativeToolTip": "CyberBot1\\Task3_NLP\\NLpProcessor.cs",
+              "ViewState": "AgIAAC0AAADAmZmZmZktwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:26:40.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuizWindow.xaml.cs",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\Quiz\\QuizWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CyberBot1\\Quiz\\QuizWindow.xaml.cs",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\Quiz\\QuizWindow.xaml.cs",
+              "RelativeToolTip": "CyberBot1\\Quiz\\QuizWindow.xaml.cs",
+              "ViewState": "AgIAAH8AAAAAcmZmZmYewG0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:58:39.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActivityLog.cs",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\Logging\\ActivityLog.cs",
+              "RelativeDocumentMoniker": "CyberBot1\\Logging\\ActivityLog.cs",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\Logging\\ActivityLog.cs",
+              "RelativeToolTip": "CyberBot1\\Logging\\ActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:48:14.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuizWindow.xaml",
+              "DocumentMoniker": "C:\\projects\\CyberBot1\\CyberBot1\\Quiz\\QuizWindow.xaml",
+              "RelativeDocumentMoniker": "CyberBot1\\Quiz\\QuizWindow.xaml",
+              "ToolTip": "C:\\projects\\CyberBot1\\CyberBot1\\Quiz\\QuizWindow.xaml",
+              "RelativeToolTip": "CyberBot1\\Quiz\\QuizWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-24T20:48:38.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TaskManagerWindow.xaml.cs",
+              "DocumentMoniker": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskManagerWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskManagerWindow.xaml.cs",
+              "ToolTip": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskManagerWindow.xaml.cs",
+              "RelativeToolTip": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskManagerWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAACAMDMzMzMbwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:06:18.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaskManagerWindow.xaml",
+              "DocumentMoniker": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskManagerWindow.xaml",
+              "RelativeDocumentMoniker": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskManagerWindow.xaml",
+              "ToolTip": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskManagerWindow.xaml",
+              "RelativeToolTip": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskManagerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-25T18:07:56.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CyberTopicData.cs",
+              "DocumentMoniker": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberTopicData.cs",
+              "RelativeDocumentMoniker": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberTopicData.cs",
+              "ToolTip": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberTopicData.cs",
+              "RelativeToolTip": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberTopicData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:30:01.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CyberQuestions.cs",
+              "DocumentMoniker": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberQuestions.cs",
+              "RelativeDocumentMoniker": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberQuestions.cs",
+              "ToolTip": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberQuestions.cs",
+              "RelativeToolTip": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\CyberQuestions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:28:44.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SentimentAnalyzer.cs",
+              "DocumentMoniker": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\SentimentAnalyzer.cs",
+              "RelativeDocumentMoniker": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\SentimentAnalyzer.cs",
+              "ToolTip": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\SentimentAnalyzer.cs",
+              "RelativeToolTip": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\Task3_NLP\\SentimentAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:30:34.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskItem.cs",
+              "RelativeDocumentMoniker": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskItem.cs",
+              "ToolTip": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskItem.cs",
+              "RelativeToolTip": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:57:42.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TypeWriter.cs",
+              "DocumentMoniker": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\CyberReponses\\TypeWriter.cs",
+              "RelativeDocumentMoniker": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\CyberReponses\\TypeWriter.cs",
+              "ToolTip": "C:\\projects\\Prog6221_WPT\\CyberBot1\\CyberBot1\\CyberReponses\\TypeWriter.cs",
+              "RelativeToolTip": "..\\Prog6221_WPT\\CyberBot1\\CyberBot1\\CyberReponses\\TypeWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T22:30:59.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

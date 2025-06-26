@@ -1,0 +1,95 @@
+C:\Users\Sarah M\OneDrive\Documents\Khensani's folder\IT notes\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.AssemblyReference.cache
+C:\Users\Sarah M\OneDrive\Documents\Khensani's folder\IT notes\INSY 1B\CyberBot1\CyberBot1\obj\Debug\MainWindow.g.cs
+C:\Users\Sarah M\OneDrive\Documents\Khensani's folder\IT notes\INSY 1B\CyberBot1\CyberBot1\obj\Debug\TaskManagerWindow.g.cs
+C:\Users\Sarah M\OneDrive\Documents\Khensani's folder\IT notes\INSY 1B\CyberBot1\CyberBot1\obj\Debug\App.g.cs
+C:\Users\Sarah M\OneDrive\Documents\Khensani's folder\IT notes\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1_MarkupCompile.cache
+C:\Users\Sarah M\OneDrive\Documents\Khensani's folder\IT notes\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1_MarkupCompile.lref
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\bin\Debug\CyberBot1.exe.config
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\bin\Debug\CyberBot1.exe
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\bin\Debug\CyberBot1.pdb
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.AssemblyReference.cache
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\MainWindow.g.cs
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\TaskManagerWindow.g.cs
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\App.g.cs
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1_MarkupCompile.cache
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1_MarkupCompile.lref
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\MainWindow.baml
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\TaskManagerWindow.baml
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1.g.resources
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1.Properties.Resources.resources
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.GenerateResource.cache
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.CoreCompileInputs.cache
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1.exe
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1.pdb
+C:\Users\Sarah M\Desktop\INSY 1B\CyberBot1\CyberBot1\obj\Debug\CyberBot1.exe.config
+C:\projects\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.AssemblyReference.cache
+C:\projects\CyberBot1\CyberBot1\obj\Debug\MainWindow.g.cs
+C:\projects\CyberBot1\CyberBot1\obj\Debug\App.g.cs
+C:\projects\CyberBot1\CyberBot1\obj\Debug\CyberBot1_MarkupCompile.cache
+C:\projects\CyberBot1\CyberBot1\obj\Debug\CyberBot1_MarkupCompile.lref
+C:\projects\CyberBot1\CyberBot1\bin\Debug\CyberBot1.exe.config
+C:\projects\CyberBot1\CyberBot1\bin\Debug\CyberBot1.exe
+C:\projects\CyberBot1\CyberBot1\bin\Debug\CyberBot1.pdb
+C:\projects\CyberBot1\CyberBot1\obj\Debug\MainWindow.baml
+C:\projects\CyberBot1\CyberBot1\obj\Debug\CyberBot1.g.resources
+C:\projects\CyberBot1\CyberBot1\obj\Debug\CyberBot1.Properties.Resources.resources
+C:\projects\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.GenerateResource.cache
+C:\projects\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.CoreCompileInputs.cache
+C:\projects\CyberBot1\CyberBot1\obj\Debug\CyberBot1.exe
+C:\projects\CyberBot1\CyberBot1\obj\Debug\CyberBot1.pdb
+C:\projects\CyberBot1\CyberBot1\obj\Debug\AddTaskWindow.g.cs
+C:\projects\CyberBot1\CyberBot1\obj\Debug\TaskManagerWindow.g.cs
+C:\projects\CyberBot1\CyberBot1\obj\Debug\AddTaskWindow.baml
+C:\projects\CyberBot1\CyberBot1\obj\Debug\TaskManagerWindow.baml
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.AssemblyReference.cache
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\MainWindow.g.cs
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\Quiz\QuizWindow.g.cs
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\App.g.cs
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1_MarkupCompile.cache
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1_MarkupCompile.lref
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.exe
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.pdb
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\bin\Debug\CyberBot1.exe.config
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\bin\Debug\CyberBot1.exe
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\bin\Debug\CyberBot1.pdb
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\MainWindow.baml
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\Quiz\QuizWindow.baml
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.g.resources
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.Properties.Resources.resources
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.GenerateResource.cache
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.CoreCompileInputs.cache
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\ChatBot\ChatWindow.g.cs
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\ChatBot\ChatWindow.baml
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\TaskManager\AddTaskWindow.g.cs
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\TaskManager\TaskManagerWindow.g.cs
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\TaskManager\AddTaskWindow.baml
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\TaskManager\TaskManagerWindow.baml
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\startWindow\IntroductionWindow.g.cs
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1_Content.g.cs
+C:\projects\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\startWindow\IntroductionWindow.baml
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\bin\Debug\CyberBot1.exe.config
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\bin\Debug\CyberBot1.exe
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\bin\Debug\CyberBot1.pdb
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.AssemblyReference.cache
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\startWindow\IntroductionWindow.g.cs
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\TaskManager\AddTaskWindow.g.cs
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\ChatBot\ChatWindow.g.cs
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\MainWindow.g.cs
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\Quiz\QuizWindow.g.cs
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\TaskManager\TaskManagerWindow.g.cs
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\App.g.cs
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1_Content.g.cs
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1_MarkupCompile.cache
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1_MarkupCompile.lref
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\startWindow\IntroductionWindow.baml
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\TaskManager\AddTaskWindow.baml
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\ChatBot\ChatWindow.baml
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\MainWindow.baml
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\Quiz\QuizWindow.baml
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\TaskManager\TaskManagerWindow.baml
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.g.resources
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.Properties.Resources.resources
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.GenerateResource.cache
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.csproj.CoreCompileInputs.cache
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.exe
+C:\projects\Prog6221_WPT\Prog6221_WPT\CyberBot1\CyberBot1\obj\Debug\CyberBot1.pdb
