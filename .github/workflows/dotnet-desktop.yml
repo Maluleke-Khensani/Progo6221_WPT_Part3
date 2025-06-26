@@ -1,5 +1,6 @@
 name: Build CyberBot WPF
 
+
 on:
   push:
     branches: [ main ]
@@ -17,15 +18,16 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.0.x'  # or '7.0.x' depending on your .NET version
+          dotnet-version: '8.0.x'  # Match your version
+
+      - name: Navigate to CyberBot1 folder
+        run: cd CyberBot1
 
       - name: Restore dependencies
-        run: dotnet restore
+        run: dotnet restore CyberBot1/CyberBot1.sln
 
       - name: Build the solution
-        run: dotnet build CyberBot1.sln --configuration Release
+        run: dotnet build CyberBot1/CyberBot1.sln --configuration Release
 
       - name: Publish build (optional)
-        run: dotnet publish CyberBot1.sln --configuration Release --output build
-            
-               
+        run: dotnet publish CyberBot1/CyberBot1.sln --configuration Release --output build
